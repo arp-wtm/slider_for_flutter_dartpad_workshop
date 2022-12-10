@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       color: Colors.red,
-    );
+    );// TO DO substitute Container with an IntroSlider instance
   }
 }
 class IntroSlider extends StatefulWidget {
