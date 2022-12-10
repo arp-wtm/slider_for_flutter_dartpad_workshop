@@ -1,7 +1,5 @@
 # slider_for_flutter_dartpad_workshop
 
-### based on tutorial http://www.droidmonk.com/flutter/flutter-how-to-build-intro-slider-for-your-app/
-### and https://github.com/dart-lang/dart-pad/wiki/Workshop-Authoring-Guide
 
 ### Author
 
@@ -10,3 +8,5 @@ This workshop is authored by Antonella(https://g.dev/antonella) & Francesco(http
 ### GDG Nebrodi(https://gdg.community.dev/gdg-nebrodi/) and <br>
 ### WomenTechMakers (https://developers.google.com/womentechmakers) communities.<br>
 
+### based on tutorial http://www.droidmonk.com/flutter/flutter-how-to-build-intro-slider-for-your-app/ <br>
+### and https://github.com/dart-lang/dart-pad/wiki/Workshop-Authoring-Guide <br>
