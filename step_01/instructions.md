@@ -14,6 +14,6 @@ This workshop is authored by Antonella(https://g.dev/antonella) & Francesco(http
 **- select Flutter** <br>
 **- click the 'Run' button** <br>
 **- cancel all the code after import 'package:flutter/material.dart';**<br>
-**- create a new stateful widget MyApp to return an empty container**<br>
+**- create a new stateful widget MyApp to return an empty red container**<br>
 **- click the 'Run' button.**
 
