@@ -1,5 +1,5 @@
-name: slider_for_flutter_dartpad_workshop
-type: dart # This should be either "dart" or "flutter".
+name: Slider for Flutter DartPad Workshop
+type: flutter
 steps:
   - name: Step 1
     directory: step_01
