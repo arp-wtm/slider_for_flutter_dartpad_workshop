@@ -1,27 +1,9 @@
-name: Slider for Flutter DartPad Workshop
-type: dart
+name: Example workshop
+type: flutter # This should be either "dart" or "flutter".
 steps:
   - name: Step 1
     directory: step_01
     has_solution: true
   - name: Step 2
     directory: step_02
-    has_solution: true
-  - name: Step 3
-    directory: step_03
-    has_solution: true
-  - name: Step 4
-    directory: step_04
-    has_solution: true
-  - name: Step 5
-    directory: step_05
-    has_solution: true
-  - name: Step 6
-    directory: step_06
-    has_solution: true
-   - name: Step 7
-    directory: step_07
-    has_solution: true
-    
-     
-    
+    has_solution: false
