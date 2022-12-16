@@ -1,5 +1,5 @@
 name: Flutter Messina
-type: flutter
+type: dart
 steps:
   - name: Easy as 2+2
     directory: step_01
