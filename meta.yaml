@@ -1,6 +1,24 @@
 name: Flutter Messina
-type: dart
+type: flutter
 steps:
-  - name: Easy as 2+2
+  - name: Step 01
     directory: step_01
+    has_solution: true
+  - name: Step 02
+    directory: step_02
+    has_solution: true
+  - name: Step 03
+    directory: step_03
+    has_solution: true
+  - name: Step 04
+    directory: step_04
+    has_solution: true
+  - name: Step 05
+    directory: step_05
+    has_solution: true
+  - name: Step 06
+    directory: step_06
+    has_solution: true
+  - name: Step 07
+    directory: step_07
     has_solution: true
