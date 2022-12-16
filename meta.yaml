@@ -2,5 +2,5 @@ name: Writing code as a mathematician
 type: flutter
 steps:
   - name: Easy as 2+2
-    directory: 01_two_plus_two
+    directory: step_01
     has_solution: true
