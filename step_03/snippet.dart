@@ -21,6 +21,8 @@ class _IntroSliderState extends State<IntroSlider> {
   Widget build(BuildContext context) {
     return Container(
     color: Colors.green,
-    ); //TO DO substitute Container with a PageView with three children Container red, blue, green
+    ); //TO DO substitute widget Container 
+       //with PageView
+      // insert into PageView three children Container red, blue, green
   }
 }
