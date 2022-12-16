@@ -28,4 +28,5 @@ class _IntroSliderState extends State<IntroSlider> {
     
     );// PageView
   }
-} // note you can see only the first one. We need also a controller to slide among them.
+} // note you can see only the first one. 
+// toggle your browser to the mobile view with Ctrl+Shift+M to swipe 
