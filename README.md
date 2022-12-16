@@ -10,3 +10,5 @@ This workshop is authored by Antonella(https://g.dev/antonella) & Francesco(http
 
 ### based on tutorial http://www.droidmonk.com/flutter/flutter-how-to-build-intro-slider-for-your-app/ <br>
 ### and https://github.com/dart-lang/dart-pad/wiki/Workshop-Authoring-Guide <br>
+
+view on DartPad (https://rb.gy/jww9if)
