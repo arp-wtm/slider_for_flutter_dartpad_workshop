@@ -1,5 +1,5 @@
 name: Slider for Flutter DartPad Workshop
-type: flutter
+type: dart
 steps:
   - name: Step 1
     directory: step_01
