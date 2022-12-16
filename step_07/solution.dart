@@ -67,7 +67,7 @@ class _IntroSliderState extends State<IntroSlider> {
 
     // set up the AlertDialog
     AlertDialog alert = AlertDialog(
-      title: const Text("My title"),
+      title: const Text("HAPPY HOLIDAYS"),
       content: const Text("This is my message."),
       actions: [
         okButton,
