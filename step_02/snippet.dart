@@ -5,9 +5,8 @@ void main() => runApp(MyApp());
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Container(
-      color: Colors.red,
-    );// TO DO substitute Container with an IntroSlider instance
+    return MaterialApp(home: Container());
+    // TO DO substitute Container with an IntroSlider instance
   }
 }
 class IntroSlider extends StatefulWidget {
