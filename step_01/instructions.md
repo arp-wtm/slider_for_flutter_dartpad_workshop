@@ -6,6 +6,7 @@ This workshop is authored by Antonella(https://g.dev/antonella), Pierluigi & Fra
 ### Flutter Messina (https://www.meetup.com/it-IT/flutter-messina/),<br>
 ### GDG Nebrodi(https://gdg.community.dev/gdg-nebrodi/) and <br>
 ### WomenTechMakers (https://developers.google.com/womentechmakers) communities.<br>
+### You can make your own digital Dash using Dashatar (https://dashatar-dev.web.app)
 
 
 **STEP 1**<br>
