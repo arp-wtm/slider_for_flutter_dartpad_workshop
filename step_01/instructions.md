@@ -10,7 +10,7 @@ This workshop is authored by Antonella(https://g.dev/antonella), Pierluigi & Fra
 
 **STEP 1**<br>
 
-**-use the material.dart package to implement Material Design features;**<br>
+**-use the material.dart package to implement Material Design look and feel;**<br>
 The pub.dev site lists many **open source** packages—developed by Google engineers and generous members<br>
 of the Flutter and Dart community. A package is a collection of similar functionalities<br>
 **- create the main and runApp function passing MyApp widget as parameter**<br>
